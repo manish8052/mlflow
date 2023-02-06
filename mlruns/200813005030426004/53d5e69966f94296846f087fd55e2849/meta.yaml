@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/New%20folder/MlOps/MlFlow/mlruns/200813005030426004/53d5e69966f94296846f087fd55e2849/artifacts
+end_time: 1675405986981
+entry_point_name: ''
+experiment_id: '200813005030426004'
+lifecycle_stage: active
+run_id: 53d5e69966f94296846f087fd55e2849
+run_name: placid-koi-730
+run_uuid: 53d5e69966f94296846f087fd55e2849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675405981091
+status: 3
+tags: []
+user_id: hp

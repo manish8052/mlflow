@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hp/Desktop/New%20folder/MlOps/MlFlow/mlruns/143086278973239674/16798e002e414a179d3bf31817fe2981/artifacts
+end_time: 1675433250566
+entry_point_name: ''
+experiment_id: '143086278973239674'
+lifecycle_stage: active
+run_id: 16798e002e414a179d3bf31817fe2981
+run_name: iris_classifier_03-02-23
+run_uuid: 16798e002e414a179d3bf31817fe2981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675433245263
+status: 3
+tags: []
+user_id: hp
